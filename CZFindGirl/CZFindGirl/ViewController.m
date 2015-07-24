@@ -22,9 +22,9 @@
     
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (void)test
+{
+    NSLog(@"111111");
 }
 
 @end
